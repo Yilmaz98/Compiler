@@ -1,0 +1,9 @@
+for(i=0;i<5;i++)
+{ printf(one);
+for(j=0;j<4;j++)
+{ printf(two);
+for(k=0;k<7;k++)
+{ printf(three);
+}
+}
+}

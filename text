@@ -1,0 +1,9 @@
+if(a>0)
+{ printf("one");
+if(b>0)
+{ printf("two");
+if(c==6)
+{   printf("three");
+}
+}
+}
